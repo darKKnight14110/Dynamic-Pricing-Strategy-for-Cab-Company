@@ -7,4 +7,4 @@ The goal is to build a dynamic pricing model that incorporates the provided feat
 
 Solution:
 1) Developed a CATBOOST Regressor Model to predict the cost of the ride upon factors like Demand-Supply factors.
-2) Generated a price strategy which is should to generate 60% profit on net transactions.
+2) Generated a price strategy which shows 60% profit uplift on historical transactions
